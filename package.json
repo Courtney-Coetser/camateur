@@ -1,0 +1,28 @@
+{
+  "name": "camateur",
+  "version": "0.0.1",
+  "description": " It is a virtual strip-joint. People pay to see girls get nude and masturbate. Not a dating site.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "camstar"
+  },
+  "keywords": [
+    "#camgirls",
+    "#18+",
+    "#adult"
+  ],
+  "author": "C.Coetser",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/socket.io": "^3.0.2",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
